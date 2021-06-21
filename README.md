@@ -1,2 +1,3 @@
 # EstatisticaAplicadaComp
-Resolução de exercícios de Estatística Aplicada à Computação utilizando bibliotecas como: Numpy, Pandas, Matplotlib, etc. Jupyter Notebook.
+Resolução de exercícios de Estatística Aplicada à Computação utilizando bibliotecas como: Numpy, Pandas, Matplotlib, etc. \n
+Práticas com Jupyter Notebook.
